@@ -1,3 +1,0 @@
-/Users/edant/glinceutils/config/CMakeFiles/glinceutils.dir
-/Users/edant/glinceutils/config/CMakeFiles/edit_cache.dir
-/Users/edant/glinceutils/config/CMakeFiles/rebuild_cache.dir
