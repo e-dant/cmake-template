@@ -10,12 +10,14 @@ Everything is overridable, but the template does make some default assumptions a
  ~> notes on directories:
  we're setting up variables for an overridable 
  project tree which looks something like this:
+
  /{root directory}/
   src/main.{c/cpp}
   src/[{...}.{c/cpp/h/hpp}]
   src/include/[{...}.{c/cpp/h/hpp}]
   build/{project name}[.so]
   config/{CMakeLists.txt, MakeFile, CMakeFiles, ...}
+
 ```
 
 ## How
