@@ -20,7 +20,7 @@
 ### - compiler options	- - - - any valid gcc or clang compiler options
 ### - cmake minimum version - - the minimum version of cmake we accept. 3.2 is good.
 ### - log level - - - - - - - - one of: "off", "low", "high"; whether to or at what level to log.
-set(_project_name "glinceutils")
+set(_project_name "cmake-template")
 set(_target_name "${_project_name}")
 set(_target_type "executable")
 
